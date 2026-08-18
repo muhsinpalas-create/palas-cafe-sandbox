@@ -1,7 +1,9 @@
-# BROKEN TRAINING VERSION
+# First GitHub Training Commit
 
-This file was intentionally changed to simulate a bad production change.
+This file exists only to practice the PALAS GitHub workflow.
 
-Original training notes have been replaced on purpose.
+- Repository: palas-cafe-sandbox
+- Branch: training/first-change
+- Purpose: learn branch -> commit -> pull request -> merge
 
-Status: BROKEN FOR TRAINING
+If this file appears only on the training branch, the exercise is working correctly.
