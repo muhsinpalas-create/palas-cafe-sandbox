@@ -1,9 +1,9 @@
-# CONFLICT VERSION A
+# CI SHOULD FAIL
 
-This file exists only to practice the PALAS GitHub workflow.
+This file was intentionally changed so the PALAS Training CI check rejects this pull request.
 
 - Repository: palas-cafe-sandbox
-- Branch: training/conflict-a
-- Purpose: create a merge conflict for training
+- Branch: training/ci-fail
+- Purpose: prove automated checks can catch an unsafe change before merge
 
-Version A says this title should win.
+Expected result: CI red X.
